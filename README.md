@@ -1,3 +1,9 @@
+Purpose: Following throught the provided tutorial as a first look into firebase/firestore.
+
+Goal: Learn enough of the basics and the work flow to tackle using firebase in real applications
+
+-----------------------------------------------------------------------
+
 # FriendlyEats (Web)
 
 ## Introduction
